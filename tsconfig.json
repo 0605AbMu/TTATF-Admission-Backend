@@ -4,7 +4,8 @@
     "alwaysStrict": true,
     "strictNullChecks": true,
     "noImplicitAny": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "resolveJsonModule": true
   },
   "files": ["src/index.ts"],
   "include": ["src/config/"]
